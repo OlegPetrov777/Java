@@ -38,9 +38,9 @@ public class Main {
         n6 /= 10;
         System.out.println("n6=" + n6);
 
-        //ex9();
-        //ex10();
-        //ex11();
+        ex9();
+        ex10();
+        ex11();
         ex12();
     }
     static void ex9 (){
