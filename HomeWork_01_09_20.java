@@ -14,8 +14,8 @@ public class Main {
         n = 10;
         System.out.println("n=" + n);
         //3
-	    int n2, n3;
-	    n2 = 3;
+    	int n2, n3;
+    	n2 = 3;
         n3 = ++n2;
         n2 += 1;
         System.out.println("n2=" + n2);
