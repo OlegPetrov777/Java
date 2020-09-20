@@ -5,7 +5,7 @@ import java.util.Collection;
 import java.util.HashSet;
 import java.util.LinkedList;
 
-public class NoDuplicates {
+public class Main {
     public static void main(String[] args) {
         compare2Lists();
     }
